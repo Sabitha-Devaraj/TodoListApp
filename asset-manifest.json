@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sabitha-Devaraj/TodoListApp.git/static/css/main.a71dfc5a.css",
+    "main.js": "/Sabitha-Devaraj/TodoListApp.git/static/js/main.a2441b20.js",
+    "static/js/787.000b21f9.chunk.js": "/Sabitha-Devaraj/TodoListApp.git/static/js/787.000b21f9.chunk.js",
+    "index.html": "/Sabitha-Devaraj/TodoListApp.git/index.html",
+    "main.a71dfc5a.css.map": "/Sabitha-Devaraj/TodoListApp.git/static/css/main.a71dfc5a.css.map",
+    "main.a2441b20.js.map": "/Sabitha-Devaraj/TodoListApp.git/static/js/main.a2441b20.js.map",
+    "787.000b21f9.chunk.js.map": "/Sabitha-Devaraj/TodoListApp.git/static/js/787.000b21f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71dfc5a.css",
+    "static/js/main.a2441b20.js"
+  ]
+}
