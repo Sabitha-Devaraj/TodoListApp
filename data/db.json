@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Create portfolio using ReactJS"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "Learn Python"
+    }
+  ]
+}
